@@ -1,0 +1,8 @@
+path: D:\UPH\Skripsi\code\yolo_dataset
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: Matang
+  1: Mentah
+  2: Setengah Matang

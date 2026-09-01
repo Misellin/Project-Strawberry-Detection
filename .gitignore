@@ -1,0 +1,6 @@
+dataset/
+runs/
+weights/
+yolo_dataset/
+yolov8n.pt
+yolov8s.pt
