@@ -1,4 +1,4 @@
-path: D:\UPH\Skripsi\code\yolo_dataset
+path: D:\UPH\Skripsi\code\yolo_dataset_gabungan
 train: images/train
 val: images/val
 test: images/test
